@@ -87,9 +87,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - The Python `ipaddress` module for the core network calculations
 - Tkinter for the GUI framework
-
-## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/ip-subnet-analyzer](https://github.com/yourusername/ip-subnet-analyzer)
