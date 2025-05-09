@@ -2,8 +2,6 @@
 
 A Python desktop application that helps network administrators and IT students analyze IP subnets by applying subnet masks to IP addresses and calculating essential network information.
 
-![IP Subnet Analyzer Screenshot](https://via.placeholder.com/600x500?text=IP+Subnet+Analyzer)
-
 ## Features
 
 - **IP Address and Subnet Mask Analysis**: Apply subnet masks to IP addresses and visualize the results
